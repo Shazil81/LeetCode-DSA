@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shazil81/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shazil81/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shazil81/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Shazil81/LeetCode-DSA/tree/master/0735-asteroid-collision) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
