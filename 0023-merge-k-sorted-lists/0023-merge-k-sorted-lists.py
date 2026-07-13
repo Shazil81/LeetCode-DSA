@@ -6,20 +6,19 @@
 import heapq
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        # sorting ka use kr k krenge
+        # heap k sath kr rhe hain
         # step 1 sare values ko ek list me daal dete hain
-        values = []
+        heap = []
         for node in lists:
             while node:
-                values.append(node.val)
+                heapq.heappush(heap, node.val)
                 node = node.next
-        # step 2 sort kr do or nya linked list bna do or daal
-        values.sort()
+        # step 2 heap se pop krte jao or naya linked list bnao kyun ki minimum wala hi pop hoga baar baar
         dummy = ListNode(0)
         curr = dummy
         
-        for val in values:
-            curr.next = ListNode(val)
+        while heap:
+            curr.next = ListNode(heapq.heappop(heap))
             curr = curr.next
         return dummy.next
         
