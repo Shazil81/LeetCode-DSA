@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shazil81/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shazil81/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Shazil81/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shazil81/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,15 +136,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shazil81/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Shazil81/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shazil81/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shazil81/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Shazil81/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shazil81/LeetCode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -155,4 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shazil81/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
