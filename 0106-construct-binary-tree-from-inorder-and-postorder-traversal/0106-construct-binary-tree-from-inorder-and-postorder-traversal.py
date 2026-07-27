@@ -6,12 +6,11 @@
 #         self.right = right
 class Solution:
     def buildTree(self, inorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
-         # step 1
+         # step 1 Bina queue use kiye ho jayega isme yha pe
         mapping = {}
         for i in range(len(inorder)):
             mapping[inorder[i]] = i
-        preorder = collections.deque(postorder)
-        
+
         def solve(start, end):
             if start > end:
                 return None
