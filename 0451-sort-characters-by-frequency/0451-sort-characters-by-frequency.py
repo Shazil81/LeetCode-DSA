@@ -1,20 +1,12 @@
 class Solution:
     def frequencySort(self, s: str) -> str:
-       # bucket sort : Optimal One
-        n = len(s)
-        bucket = [[] for i in range(n+1)] # n+1 banane k pichhe ek reason hai ki mera frequesncy 1 baar to aayega hi isi liye 0th index ko hmlog ignore kr denge
-        
-        freq = {}
-        for ch in s:
-            freq[ch] = freq.get(ch, 0) + 1
-        # Bucket me hashmap me jo value hoga yaani ki count usko index pe daal rhe h
-        for key, value in freq.items():
-            bucket[value].append(key)
-        
-        res = []
-        for i in range(len(bucket)-1, 0, -1): # last se chala rhe h is liye kyun ki isme jo sab se zyada frequency hoga uska index last me hoga baaki sab khali rhega 
-            for ch in bucket[i]:
-                res.append(ch*i)
-        
-        return "".join(res)
-                
+       # By using dictionary
+       hash_map = {}
+       res = ""
+       for ch in s:
+        hash_map[ch] = hash_map.get(ch, 0) + 1
+       
+       sorted_chars = sorted(hash_map.items(), key = lambda x : x[1], reverse = True)
+       for ch, freq in sorted_chars:
+        res = res + (ch*freq)
+       return res
