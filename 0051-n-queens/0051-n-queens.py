@@ -1,51 +1,35 @@
 class Solution:
-    def isSafe(self, row, col, board, n): # ye check krega ki no queens should attack each other
-        duprow = row  # dummy use krega
-        dupcol = col
-
-        while row>=0 and col >= 0:  # diagonally pichhe me check krega upar side
-            if board[row][col] == "Q":
-                return False
-            row-=1
-            col-=1
-
-        col = dupcol
-        row = duprow
-
-        while col >= 0: # pichhe straight check krega
-            if board[row][col] == "Q":
-                return False
-            col-=1
-        
-        row = duprow
-        col = dupcol
-
-        while row < n and col >=0: # diagonally check krne k liye downwards me hoga
-            if board[row][col] == "Q":
-                return False
-            row+=1
-            col-=1
-        return True
-        
     
-    def solve(self, col, board, ans, n): # ye hai solve wala
+    def solve(self, col, board, ans, leftrow, upperDiagonal, lowerDiagonal, n): # ye hai solve wala
         if col == n: # base condition
             ans.append(list(board))
             return
         for row in range(n):
-            if self.isSafe(row, col, board, n): # jab true hai tb yaani queen attack nhi kr rha hoga
-                # string immutable hai isi liye slicing ka use kr k hmko krna pad rha h
-                # queen ko rakh rhe h jha pe vo safe hoga
-                board[row] = board[row][:col] + "Q" + board[row][col+1:]  
-                self.solve(col+1, board, ans, n)
-                board[row] = board[row][:col] + "." + board[row][col+1:]
+            if (
+                leftrow[row] == 0
+                and lowerDiagonal[row + col] == 0 # yhi formula se dega lower diagonal ka values
+                and upperDiagonal[n - 1 + col - row] == 0 # yhi formula se dega upperDiagonal ka values
+            ):
+                board[row] = board[row][:col] + "Q" + board[row][col + 1:]
+                leftrow[row] = 1
+                lowerDiagonal[row + col] = 1
+                upperDiagonal[n - 1 + col - row] = 1
+                self.solve(col + 1, board, ans, leftrow, upperDiagonal, lowerDiagonal, n)
+                # Now Backtrack
+                board[row] = board[row][:col] + "." + board[row][col + 1:]
+                leftrow[row] = 0
+                lowerDiagonal[row + col] = 0
+                upperDiagonal[n - 1 + col - row] = 0
     def solveNQueens(self, n: int) -> List[List[str]]:
         # every row has 1 queen and every column has 1 queen only
         # no queen should hit each other
-        # brute force se solve krte hain time O(N!*N)
+
         board = ["." *n for _ in range(n)]
         ans = []
-        self.solve(0, board, ans, n)
+        leftrow = [0] * n
+        upperDiagonal = [0] * (2* n - 1) # length
+        lowerDiagonal = [0] * (2 * n -1)
+        self.solve(0, board, ans, leftrow, upperDiagonal, lowerDiagonal, n)
         return ans
 
 
