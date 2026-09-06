@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shazil81/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Shazil81/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/Shazil81/LeetCode-DSA/tree/master/0344-reverse-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Shazil81/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Shazil81/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shazil81/LeetCode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shazil81/LeetCode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Shazil81/LeetCode-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shazil81/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Shazil81/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shazil81/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0100-same-tree) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Shazil81/LeetCode-DSA/tree/master/1219-path-with-maximum-gold) |
 ## Hamiltonian Path
