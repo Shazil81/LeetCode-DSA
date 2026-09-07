@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Shazil81/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/Shazil81/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Shazil81/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shazil81/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shazil81/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shazil81/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0282-expression-add-operators](https://github.com/Shazil81/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Shazil81/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/Shazil81/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
