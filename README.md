@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0894-all-possible-full-binary-trees](https://github.com/Shazil81/LeetCode-DSA/tree/master/0894-all-possible-full-binary-trees) |
 ## Array
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Shazil81/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shazil81/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
+| [0894-all-possible-full-binary-trees](https://github.com/Shazil81/LeetCode-DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shazil81/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/Shazil81/LeetCode-DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0894-all-possible-full-binary-trees](https://github.com/Shazil81/LeetCode-DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0894-all-possible-full-binary-trees](https://github.com/Shazil81/LeetCode-DSA/tree/master/0894-all-possible-full-binary-trees) |
 ## Bitmask
 |  |
 | ------- |
