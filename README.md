@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Shazil81/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Shazil81/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Shazil81/LeetCode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
 ## Linked List
