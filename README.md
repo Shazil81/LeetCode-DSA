@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shazil81/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shazil81/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Shazil81/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Shazil81/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Shazil81/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shazil81/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Shazil81/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0894-all-possible-full-binary-trees](https://github.com/Shazil81/LeetCode-DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Shazil81/LeetCode-DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Backtracking
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Shazil81/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Shazil81/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
