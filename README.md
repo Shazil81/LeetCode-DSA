@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shazil81/LeetCode-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shazil81/LeetCode-DSA/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shazil81/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0079-word-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shazil81/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shazil81/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -447,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shazil81/LeetCode-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
