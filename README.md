@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Shazil81/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Shazil81/LeetCode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Shazil81/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0260-single-number-iii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shazil81/LeetCode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Shazil81/LeetCode-DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shazil81/LeetCode-DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Shazil81/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 ## Tournament Sort
 |  |
