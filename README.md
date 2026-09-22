@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shazil81/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Shazil81/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shazil81/LeetCode-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shazil81/LeetCode-DSA/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shazil81/LeetCode-DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Shazil81/LeetCode-DSA/tree/master/0075-sort-colors) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shazil81/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shazil81/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
