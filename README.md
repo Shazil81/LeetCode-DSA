@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shazil81/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Shazil81/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shazil81/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Shazil81/LeetCode-DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shazil81/LeetCode-DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0055-jump-game) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shazil81/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
