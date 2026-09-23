@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Shazil81/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
+| [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/Shazil81/LeetCode-DSA/tree/master/1219-path-with-maximum-gold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shazil81/LeetCode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shazil81/LeetCode-DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shazil81/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Shazil81/LeetCode-DSA/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shazil81/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Recursion
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shazil81/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
+| [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
 | ------- |
@@ -478,5 +482,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shazil81/LeetCode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
