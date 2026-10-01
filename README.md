@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shazil81/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Shazil81/LeetCode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shazil81/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Shazil81/LeetCode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -521,8 +523,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shazil81/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shazil81/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Shazil81/LeetCode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Shazil81/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Shazil81/LeetCode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Shazil81/LeetCode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Shazil81/LeetCode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
