@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Shazil81/LeetCode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shazil81/LeetCode-DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1710-maximum-units-on-a-truck](https://github.com/Shazil81/LeetCode-DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1765-map-of-highest-peak](https://github.com/Shazil81/LeetCode-DSA/tree/master/1765-map-of-highest-peak) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shazil81/LeetCode-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shazil81/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1765-map-of-highest-peak](https://github.com/Shazil81/LeetCode-DSA/tree/master/1765-map-of-highest-peak) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Shazil81/LeetCode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Search Tree
 |  |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Shazil81/LeetCode-DSA/tree/master/1219-path-with-maximum-gold) |
+| [1765-map-of-highest-peak](https://github.com/Shazil81/LeetCode-DSA/tree/master/1765-map-of-highest-peak) |
 ## Hamiltonian Path
 |  |
 | ------- |
