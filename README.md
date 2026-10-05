@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Shazil81/LeetCode-DSA/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shazil81/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shazil81/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Shazil81/LeetCode-DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/Shazil81/LeetCode-DSA/tree/master/1765-map-of-highest-peak) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shazil81/LeetCode-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Sorting
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/Shazil81/LeetCode-DSA/tree/master/0763-partition-labels) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -534,16 +537,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Shazil81/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shazil81/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1192-critical-connections-in-a-network](https://github.com/Shazil81/LeetCode-DSA/tree/master/1192-critical-connections-in-a-network) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Shazil81/LeetCode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shazil81/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shazil81/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shazil81/LeetCode-DSA/tree/master/0207-course-schedule) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Shazil81/LeetCode-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
