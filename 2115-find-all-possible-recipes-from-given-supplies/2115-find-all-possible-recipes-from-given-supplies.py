@@ -1,7 +1,7 @@
 from collections import deque, defaultdict
 class Solution:
     def findAllRecipes(self, recipes: list[str], ingredients: list[list[str]], supplies: list[str]) -> list[str]:
-        
+        # Topo sort ka question hai (BFS KAHN's Algo use ho rha hai)
         adj_list = defaultdict(list)
         indegrees = defaultdict(int)
 
