@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0894-all-possible-full-binary-trees](https://github.com/Shazil81/LeetCode-DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shazil81/LeetCode-DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Shazil81/LeetCode-DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/Shazil81/LeetCode-DSA/tree/master/1765-map-of-highest-peak) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shazil81/LeetCode-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Shazil81/LeetCode-DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Shazil81/LeetCode-DSA/tree/master/1219-path-with-maximum-gold) |
 | [1765-map-of-highest-peak](https://github.com/Shazil81/LeetCode-DSA/tree/master/1765-map-of-highest-peak) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Shazil81/LeetCode-DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Hamiltonian Path
 |  |
 | ------- |
