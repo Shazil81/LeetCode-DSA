@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shazil81/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/Shazil81/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Shazil81/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Shazil81/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shazil81/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Shazil81/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Shazil81/LeetCode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Shazil81/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Shazil81/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shazil81/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Shazil81/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0909-snakes-and-ladders](https://github.com/Shazil81/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Shazil81/LeetCode-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Shazil81/LeetCode-DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Shazil81/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Shazil81/LeetCode-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Shazil81/LeetCode-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1192-critical-connections-in-a-network](https://github.com/Shazil81/LeetCode-DSA/tree/master/1192-critical-connections-in-a-network) |
@@ -576,4 +580,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Shazil81/LeetCode-DSA/tree/master/1192-critical-connections-in-a-network) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Shazil81/LeetCode-DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Shazil81/LeetCode-DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
