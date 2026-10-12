@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shazil81/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shazil81/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Shazil81/LeetCode-DSA/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shazil81/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shazil81/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Shazil81/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Shazil81/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Shazil81/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shazil81/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1710-maximum-units-on-a-truck](https://github.com/Shazil81/LeetCode-DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Shazil81/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Shazil81/LeetCode-DSA/tree/master/0763-partition-labels) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Shazil81/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shazil81/LeetCode-DSA/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shazil81/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Shazil81/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
@@ -439,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Shazil81/LeetCode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Shazil81/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shazil81/LeetCode-DSA/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Shazil81/LeetCode-DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Shazil81/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
@@ -547,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shazil81/LeetCode-DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shazil81/LeetCode-DSA/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Shazil81/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
