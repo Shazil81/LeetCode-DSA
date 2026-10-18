@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Shazil81/LeetCode-DSA/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Shazil81/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
+| [0174-dungeon-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0174-dungeon-game) |
 | [0435-non-overlapping-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shazil81/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Shazil81/LeetCode-DSA/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Shazil81/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0079-word-search) |
+| [0174-dungeon-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0174-dungeon-game) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shazil81/LeetCode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Shazil81/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
