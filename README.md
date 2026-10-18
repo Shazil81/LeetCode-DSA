@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0741-cherry-pickup](https://github.com/Shazil81/LeetCode-DSA/tree/master/0741-cherry-pickup) |
 | [0894-all-possible-full-binary-trees](https://github.com/Shazil81/LeetCode-DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shazil81/LeetCode-DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shazil81/LeetCode-DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Shazil81/LeetCode-DSA/tree/master/0735-asteroid-collision) |
+| [0741-cherry-pickup](https://github.com/Shazil81/LeetCode-DSA/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Shazil81/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/Shazil81/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0174-dungeon-game) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shazil81/LeetCode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Shazil81/LeetCode-DSA/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Shazil81/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
 | [0909-snakes-and-ladders](https://github.com/Shazil81/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
