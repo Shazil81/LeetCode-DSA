@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Shazil81/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shazil81/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shazil81/LeetCode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Shazil81/LeetCode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Shazil81/LeetCode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shazil81/LeetCode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shazil81/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/Shazil81/LeetCode-DSA/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0174-dungeon-game) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shazil81/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shazil81/LeetCode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Shazil81/LeetCode-DSA/tree/master/0741-cherry-pickup) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Shazil81/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shazil81/LeetCode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 ## Union-Find
