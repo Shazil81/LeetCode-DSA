@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Shazil81/LeetCode-DSA/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/Shazil81/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Shazil81/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Shazil81/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0282-expression-add-operators](https://github.com/Shazil81/LeetCode-DSA/tree/master/0282-expression-add-operators) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Shazil81/LeetCode-DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Shazil81/LeetCode-DSA/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Shazil81/LeetCode-DSA/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Shazil81/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0174-dungeon-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0174-dungeon-game) |
