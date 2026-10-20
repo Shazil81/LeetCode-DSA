@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shazil81/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Shazil81/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shazil81/LeetCode-DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Shazil81/LeetCode-DSA/tree/master/0072-edit-distance) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shazil81/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Shazil81/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0055-jump-game) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shazil81/LeetCode-DSA/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Shazil81/LeetCode-DSA/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Shazil81/LeetCode-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shazil81/LeetCode-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shazil81/LeetCode-DSA/tree/master/0231-power-of-two) |
