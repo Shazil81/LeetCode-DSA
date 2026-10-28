@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Shazil81/LeetCode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/Shazil81/LeetCode-DSA/tree/master/0174-dungeon-game) |
+| [0312-burst-balloons](https://github.com/Shazil81/LeetCode-DSA/tree/master/0312-burst-balloons) |
 | [0435-non-overlapping-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Shazil81/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Shazil81/LeetCode-DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0312-burst-balloons](https://github.com/Shazil81/LeetCode-DSA/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Shazil81/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Shazil81/LeetCode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
