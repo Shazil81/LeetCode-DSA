@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/Shazil81/LeetCode-DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Shazil81/LeetCode-DSA/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shazil81/LeetCode-DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shazil81/LeetCode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Shazil81/LeetCode-DSA/tree/master/2304-minimum-path-cost-in-a-grid) |
 ## Array
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Shazil81/LeetCode-DSA/tree/master/1219-path-with-maximum-gold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shazil81/LeetCode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shazil81/LeetCode-DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shazil81/LeetCode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shazil81/LeetCode-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/Shazil81/LeetCode-DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/Shazil81/LeetCode-DSA/tree/master/1765-map-of-highest-peak) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Shazil81/LeetCode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/Shazil81/LeetCode-DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
