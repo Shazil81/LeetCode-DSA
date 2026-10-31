@@ -1,38 +1,32 @@
 class Solution:
-    def solve(self, prefix, k, i, j, dp):
-        # ek pile: cost 0
-        if i == j:
-            return 0
-
-        if dp[i][j] != -1:
-            return dp[i][j]
-
-        res = float('inf')
-
-        # range ko do hisson me todo, left hissa 1 pile banne layak ho
-        for m in range(i, j, k - 1):
-            res = min(res,
-                      self.solve(prefix, k, i, m, dp)
-                      + self.solve(prefix, k, m + 1, j, dp))
-
-        # agar poori range ek pile ban sakti hai, to last merge ka cost add
-        if (j - i) % (k - 1) == 0:
-            res += prefix[j + 1] - prefix[i]
-
-        dp[i][j] = res
-        return res
-
-
     def mergeStones(self, stones: list[int], k: int) -> int:
         n = len(stones)
 
+        # impossible check
         if (n - 1) % (k - 1) != 0:
             return -1
 
+        # prefix sum
         prefix = [0] * (n + 1)
         for i in range(n):
             prefix[i + 1] = prefix[i] + stones[i]
 
-        dp = [[-1] * n for _ in range(n)]
+        # dp[i][j] = range i..j ka min cost
+        # diagonal (i == j) = 0, wahi base case hai
+        dp = [[0] * n for _ in range(n)]
 
-        return self.solve(prefix, k, 0, n - 1, dp)
+        # length 2 se n tak (length 1 ka cost 0 hai)
+        for length in range(2, n + 1):
+            for i in range(n - length + 1):
+                j = i + length - 1
+                dp[i][j] = float('inf')
+
+                # range ko do hisson me todo (left ek pile banne layak)
+                for m in range(i, j, k - 1):
+                    dp[i][j] = min(dp[i][j], dp[i][m] + dp[m + 1][j])
+
+                # agar poori range ek pile ban sakti hai, last merge ka cost add
+                if (length - 1) % (k - 1) == 0:
+                    dp[i][j] += prefix[j + 1] - prefix[i]
+
+        return dp[0][n - 1]
