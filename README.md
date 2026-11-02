@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shazil81/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/Shazil81/LeetCode-DSA/tree/master/0741-cherry-pickup) |
 | [0894-all-possible-full-binary-trees](https://github.com/Shazil81/LeetCode-DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Shazil81/LeetCode-DSA/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shazil81/LeetCode-DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/Shazil81/LeetCode-DSA/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shazil81/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Shazil81/LeetCode-DSA/tree/master/0735-asteroid-collision) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shazil81/LeetCode-DSA/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shazil81/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Shazil81/LeetCode-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Shazil81/LeetCode-DSA/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shazil81/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shazil81/LeetCode-DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
