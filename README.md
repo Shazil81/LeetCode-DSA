@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/Shazil81/LeetCode-DSA/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/Shazil81/LeetCode-DSA/tree/master/1219-path-with-maximum-gold) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shazil81/LeetCode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Shazil81/LeetCode-DSA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shazil81/LeetCode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shazil81/LeetCode-DSA/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Shazil81/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shazil81/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shazil81/LeetCode-DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Shazil81/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shazil81/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Recursion
 |  |
