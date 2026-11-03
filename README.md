@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Shazil81/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/Shazil81/LeetCode-DSA/tree/master/0741-cherry-pickup) |
+| [0766-toeplitz-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Shazil81/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
 | [0867-transpose-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/Shazil81/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Shazil81/LeetCode-DSA/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Shazil81/LeetCode-DSA/tree/master/0741-cherry-pickup) |
+| [0766-toeplitz-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Shazil81/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
 | [0867-transpose-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/Shazil81/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
