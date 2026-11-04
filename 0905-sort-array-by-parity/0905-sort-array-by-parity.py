@@ -1,5 +1,6 @@
 class Solution:
     def sortArrayByParity(self, nums: list[int]) -> list[int]:
+        # Move zeros to end ka concept us hoga
         n = len(nums)
         if n == 1:
             return nums
