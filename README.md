@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Shazil81/LeetCode-DSA/tree/master/0778-swim-in-rising-water) |
 | [0867-transpose-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0896-monotonic-array) |
 | [0909-snakes-and-ladders](https://github.com/Shazil81/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Shazil81/LeetCode-DSA/tree/master/1000-minimum-cost-to-merge-stones) |
