@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Shazil81/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0909-snakes-and-ladders](https://github.com/Shazil81/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
+| [0941-valid-mountain-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0941-valid-mountain-array) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Shazil81/LeetCode-DSA/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
