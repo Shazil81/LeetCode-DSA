@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Shazil81/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Shazil81/LeetCode-DSA/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1051-height-checker](https://github.com/Shazil81/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/Shazil81/LeetCode-DSA/tree/master/1219-path-with-maximum-gold) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0905-sort-array-by-parity](https://github.com/Shazil81/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1051-height-checker](https://github.com/Shazil81/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shazil81/LeetCode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/Shazil81/LeetCode-DSA/tree/master/1710-maximum-units-on-a-truck) |
@@ -706,8 +708,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Shazil81/LeetCode-DSA/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Shazil81/LeetCode-DSA/tree/master/1051-height-checker) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shazil81/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Shazil81/LeetCode-DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
