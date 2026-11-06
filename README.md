@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-minimum-cost-to-merge-stones](https://github.com/Shazil81/LeetCode-DSA/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1051-height-checker](https://github.com/Shazil81/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
+| [1122-relative-sort-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/1122-relative-sort-array) |
 | [1219-path-with-maximum-gold](https://github.com/Shazil81/LeetCode-DSA/tree/master/1219-path-with-maximum-gold) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Shazil81/LeetCode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/Shazil81/LeetCode-DSA/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Shazil81/LeetCode-DSA/tree/master/1094-car-pooling) |
+| [1122-relative-sort-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/1122-relative-sort-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shazil81/LeetCode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1710-maximum-units-on-a-truck](https://github.com/Shazil81/LeetCode-DSA/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Shazil81/LeetCode-DSA/tree/master/0763-partition-labels) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1122-relative-sort-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/1122-relative-sort-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Divide and Conquer
 |  |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shazil81/LeetCode-DSA/tree/master/0056-merge-intervals) |
+| [1122-relative-sort-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/1122-relative-sort-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -709,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Shazil81/LeetCode-DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Shazil81/LeetCode-DSA/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/1122-relative-sort-array) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -717,4 +722,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Shazil81/LeetCode-DSA/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
