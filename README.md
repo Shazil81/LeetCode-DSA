@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Shazil81/LeetCode-DSA/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Shazil81/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shazil81/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0482-license-key-formatting](https://github.com/Shazil81/LeetCode-DSA/tree/master/0482-license-key-formatting) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Shazil81/LeetCode-DSA/tree/master/0709-to-lower-case) |
 | [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
