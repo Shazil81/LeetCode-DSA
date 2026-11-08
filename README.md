@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Shazil81/LeetCode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0473-matchsticks-to-square](https://github.com/Shazil81/LeetCode-DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Shazil81/LeetCode-DSA/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/Shazil81/LeetCode-DSA/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Shazil81/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Shazil81/LeetCode-DSA/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Shazil81/LeetCode-DSA/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0867-transpose-matrix) |
