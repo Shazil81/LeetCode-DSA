@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Shazil81/LeetCode-DSA/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shazil81/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0929-unique-email-addresses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shazil81/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Shazil81/LeetCode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/Shazil81/LeetCode-DSA/tree/master/0905-sort-array-by-parity) |
 | [0909-snakes-and-ladders](https://github.com/Shazil81/LeetCode-DSA/tree/master/0909-snakes-and-ladders) |
+| [0929-unique-email-addresses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0941-valid-mountain-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Shazil81/LeetCode-DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0980-unique-paths-iii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0980-unique-paths-iii) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Shazil81/LeetCode-DSA/tree/master/0763-partition-labels) |
+| [0929-unique-email-addresses](https://github.com/Shazil81/LeetCode-DSA/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Shazil81/LeetCode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1122-relative-sort-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/1122-relative-sort-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Shazil81/LeetCode-DSA/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
