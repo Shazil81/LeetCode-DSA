@@ -1,13 +1,18 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
-        odd = set()
+        count = {}
         for ch in s:
-            if ch in odd:
-                odd.remove(ch)   # pair ban gaya
-            else:
-                odd.add(ch)      # abhi akela hai
+            count[ch] = count.get(ch, 0) + 1
 
-        # odd me jitne letters bache, wo bina pair ke hain
-        if len(odd) > 0:
-            return len(s) - len(odd) + 1
-        return len(s)
+        length = 0
+        has_odd = False
+
+        for f in count.values():
+            length += (f // 2) * 2   # sirf pairs lo
+            if f % 2 == 1:
+                has_odd = True       # beech ke liye ek letter available
+
+        if has_odd:
+            length += 1
+
+        return length
