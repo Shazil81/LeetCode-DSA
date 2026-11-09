@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/Shazil81/LeetCode-DSA/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Shazil81/LeetCode-DSA/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Shazil81/LeetCode-DSA/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Shazil81/LeetCode-DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shazil81/LeetCode-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shazil81/LeetCode-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shazil81/LeetCode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Shazil81/LeetCode-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Shazil81/LeetCode-DSA/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Shazil81/LeetCode-DSA/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/Shazil81/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Shazil81/LeetCode-DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/Shazil81/LeetCode-DSA/tree/master/0763-partition-labels) |
